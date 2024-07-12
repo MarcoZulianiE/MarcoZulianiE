@@ -4,7 +4,7 @@
 
 <h2>About Me</h2>
 
-- I'm a Software Engineering Student at Universidad de los Andes, currently doing an internship at [Caseware](https://www.linkedin.com/company/caseware-international-inc/mycompany/) as a Software Developer.
+- I'm a Software Engineering Student at Universidad de los Andes.
 
 - I am starting to expand my knowledge in infrastructure and automation. I believe this will enable me to develop more comprehensive solutions that cover a wider range of fields.
 
